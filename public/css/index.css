@@ -1,0 +1,32 @@
+body {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.my-5 {
+  margin-top: 5rem !important;
+  margin-bottom: 0.5rem !important;
+}
+
+/* .row {
+  --bs-gutter-x: 0; /*to fix the scroll in the x axis
+} */
+
+.banner-text {
+  padding-left: 95px;
+  margin-top: 155px;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+.background {
+  background-image: url('/images/background-image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 460px !important;
+}
+
+.margin-footer {
+  margin-bottom: 100px;
+}

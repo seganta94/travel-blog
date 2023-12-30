@@ -1,0 +1,8 @@
+.footer-content-color {
+  color: white !important;
+}
+
+.custom-footer {
+  justify-content: end;
+  margin-right: 20px;
+}
