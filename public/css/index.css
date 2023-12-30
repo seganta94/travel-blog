@@ -1,3 +1,21 @@
 body {
   font-family: 'Shadows Into Light', cursive;
 }
+
+.my-5 {
+  margin-top: 12rem!important;
+  margin-bottom: 3rem!important;
+}
+
+/* .row {
+  --bs-gutter-x: 0; /*to fix the scroll in the x axis
+} */
+
+.banner-text {
+  padding-left: 120px;
+  margin-top: 104px;
+}
+
+h2 {
+  font-size: 2.7rem;
+}
