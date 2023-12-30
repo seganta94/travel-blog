@@ -3,8 +3,8 @@ body {
 }
 
 .my-5 {
-  margin-top: 12rem!important;
-  margin-bottom: 3rem!important;
+  margin-top: 5rem !important;
+  margin-bottom: 0.5rem !important;
 }
 
 /* .row {
@@ -12,10 +12,17 @@ body {
 } */
 
 .banner-text {
-  padding-left: 120px;
-  margin-top: 104px;
+  padding-left: 95px;
+  margin-top: 155px;
 }
 
 h2 {
-  font-size: 2.7rem;
+  font-size: 3rem;
+}
+
+.background {
+  background-image: url('/images/background-image.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 460px !important;
 }
