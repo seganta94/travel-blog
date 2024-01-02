@@ -94,6 +94,6 @@ app.get("/about", (req, res) => {
   res.render('about.ejs');
 });
 
-app.listen(3000, () => {
+app.listen(port, () => {
   console.log('Server listening on 3000');
 })
