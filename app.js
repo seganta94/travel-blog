@@ -92,5 +92,5 @@ app.get("/about", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log('Server listening on 3000');
+  console.log(`Server listening on ${port}`);
 })
